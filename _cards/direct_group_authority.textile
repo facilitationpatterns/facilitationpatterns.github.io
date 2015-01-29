@@ -1,0 +1,20 @@
+---
+title: Direct Group Authority
+category: discussing
+story: |
+  
+
+problem: |
+  As a facilitator, you often need to direct the group, but just as often you lack any actual authority.
+
+answer: |
+  Borrow authority from the group.  By prompting the group to make agreements like "[Ground Rules]":/cards/ground_rules.html, you are then able to hold the group accountable to itself.
+
+credit:   
+---
+
+There are several ways to get authority, asking for it, using it for agreed upon things like "[Ground Rules]":/cards/ground_rules.html, asking the group a question, assuming it.
+  
+Make going off topic explicit (is this a separate pattern?)
+
+A different approach to the problem of needing to direct group authority is to "[Raise My Status]":/cards/raise_my_status.html.

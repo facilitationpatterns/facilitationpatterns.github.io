@@ -1,0 +1,20 @@
+---
+title: Don't Answer Questions
+category: discussing
+story: |
+  
+
+problem: |
+  Every time you do for a system something that it should be able to do for itself, you weaken the system. Answering questions for a group that the group is capable of answering is an anti-pattern.
+
+answer: |
+  Don't answer questions. Turn questions back on the group. "That's a great question, does anyone have any ideas?"
+  
+credit:   
+---
+
+h3. Variations
+
+h4. 3 before me
+
+Get 3 answers from the group, THEN give your opinion. This gives the group more confidence in themselves, buys you time to think, and often yields better results.

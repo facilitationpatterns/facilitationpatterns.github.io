@@ -1,0 +1,16 @@
+---
+title: One Conversation
+category: ground rules
+story: |
+  
+problem: |
+  When more than one person is talking at a time, the group is splintered, and your ability to direct the group as a faciliator is compromised.
+
+answer: |
+  Suggest "One Conversation" as one of the [ground_rules] to keep this from happening.
+---
+When 2 conversations start, a good facilitator will stop one and refocus the group.  A great facilitator will pause one and weave it back into the group.
+
+Multiple conversations may also be a sign that the group is too big to effectively have one conversation.  An alternative to [one_conversation] in this case is [form_groups].
+
+In some groups, it is helpful to make this an explicit ground rule. However, this is also an implicit ground rule that many groups have. In other words, even with out the "rule", requests in the form of "I'm having a hard time hearing, could we have one conversation, please?" usually work.

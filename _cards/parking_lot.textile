@@ -1,0 +1,21 @@
+---
+title: Parking Lot
+category: discussing
+story: |
+  
+
+problem: |
+  Important topics are often brought up during inopportune times and end up derailing conversations.
+
+answer: |
+  Write down off topic ideas so that the person that brought them up feels heard and so that the group can finish the current conversation.
+---
+If I'm going to bother keeping a [parking_lot], I'll usually do it on a [big_visible_chart] so that everyone can see what's on our agenda.  
+
+h2. Variations
+
+* Depending on the time and the team, I may instead add topics like this to a [visible_agenda].
+
+h2. Don't Forget
+
+Come back to the parking lot! If you don't people will stop trusting it - and you!

@@ -1,0 +1,14 @@
+---
+title: Biv Visible Chart
+category: discussing
+story: |
+  
+
+problem: |
+  There is so much information competing for our attention. How do we focus a group in order to achieve coherent behavior?
+
+answer: |
+  You get what you measure. So put the things you want your group to focus on up on the wall in big visible charts.
+  
+credit:   
+---

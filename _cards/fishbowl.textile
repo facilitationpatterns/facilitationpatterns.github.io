@@ -1,0 +1,44 @@
+---
+title: Fishbowl
+category: discussing
+story: |
+  It was time for a company retreat, and we had gathered 200 people from around the world into a giant conference room.  
+
+  Martin got up and said, "We're going to have a group discussion about company issues"
+
+  "How can 200 people have a discussion...?" I wondered.
+
+  The rules were simple, there would be a "Fishbowl" in the middle of the room with 6 chairs around a table.  Only people sitting at this fishbowl would be allowed to talk, and there must always be a free chair so that anyone else might join the conversation.
+
+  Over the next 2 hours we had a very intense and interesting dialogue about hard issues.  The CEO even sat down a couple times to argue issues with the other people in the fishbowl, but he never stayed for long.  
+
+problem: |
+  As a group gets larger, it becomes increasingly impossible to have an intimate or even coherent conversation in which anyone can speak.
+
+answer: |
+  Create a fishbowl. Only people sitting in the "fishbowl" can talk. Everyone else gets to listen, but it's easy to step into the fishbowl because there's always a free chair.  Fishbowls can allow huge groups (100+) to have meaningful discussions.
+
+credit: |
+  I was introduced to the fishbowl by "Martin Fowler":http://martinfowler.com/.
+  And then saw a different version done at PSL w/ Jerry Weinberg, et al
+---
+
+h3. Variations
+
+h4. Everyone sits around a table and talks
+
+h4. Use a [Talking Stick]
+
+Everyone sits in a circle and uses a talking stick (within the fishbowl) when they want to talk.
+
+A microphone makes a very natural talking stick :).
+
+h4. Toss in "Fish Food"
+
+The people outside the fishbowl can toss in questions for people inside the fishbowl to answer
+
+h4. Sit in a semi circle
+
+This opens up the fishbowl to a large "audience". This makes it more like a panel discussion, but also removes some of the intimacy of sitting in a circle.
+
+You can also pass a mic back and forth using this format pretty easily.

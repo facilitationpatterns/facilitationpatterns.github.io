@@ -1,0 +1,12 @@
+---
+title: Physical Models
+category: discussing
+story: |
+  
+problem: |
+  When you and I are in a passionate discussion, it's often hard to see what we're both saying, and it's easy to take critiques about my position personally.
+
+answer: |
+  Use a physical model, a whiteboard drawing, something on paper, anything so that we are once again side-by-side, discussing a model that is outside of ourselves.
+---
+

@@ -1,0 +1,12 @@
+---
+title: Kinesthetic Graphing
+category: choosing
+story: |
+  
+
+problem: |
+  
+
+answer: |
+  
+---

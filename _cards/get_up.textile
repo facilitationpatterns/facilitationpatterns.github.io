@@ -1,0 +1,9 @@
+---
+title: Get Up
+category: discussing
+problem: |
+  When a group sits for a prolonged time, they are more likely to get distracted.  In a bigger group, especially, they may disengage.
+
+answer: |
+  Monitor the energy and engagement in the room.  When it runs low, ask people to [get_up] to do something like [affinity_grouping] or even just [take_a_break].
+---

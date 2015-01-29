@@ -1,0 +1,17 @@
+---
+title: No Talking
+category: generating
+story: |
+  
+
+problem: |
+  Contributing to a group discussion can be intimidating and difficult for anyone and is usually a struggle for introverts.  Yet the best way to find good ideas is to start with many ideas.
+
+answer: |
+  Ask the group to stop talking and brainstorm ideas quietly for a [time_box]ed amount of time.  They can [use_cards] to write them down, and may use [affinity_grouping] to sort them afterward.
+---
+
+h2. Variations
+
+* This can be the first part of [1-2-4-all].
+* Ask everyone to come up with a certain number of ideas, such as 1 or 2.

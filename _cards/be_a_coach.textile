@@ -1,0 +1,14 @@
+---
+title: Be a Coach
+category: discussing
+story: |
+  
+
+problem: |
+  We are often strongly invested in the outcome of a discussion. The bias you bring may be hurting the group more than helping.
+
+answer: |
+  Put on the role of a coach. Discard your bias and stand for the group, not your individual interests.
+
+credit:   
+---

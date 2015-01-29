@@ -1,0 +1,15 @@
+---
+title: Return On Time Invested (ROTI)
+category: closing
+story: |
+  
+
+problem: |
+  
+
+answer: |
+  
+credit: |
+  heard about it from Steven M Smith
+  also read about it in Agile Retrospectives by Diana Larsen & Esther Derby
+---

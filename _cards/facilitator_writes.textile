@@ -1,0 +1,30 @@
+---
+title: Facilitator Writes
+category: generating
+story: |
+  
+
+problem: |
+  You only have time, or only have the need to do a single pass through information (as opposed to generating much data, and then consolidating it).  Alternately, you may want to play a more active role in guiding the discussion.
+
+answer: |
+  As facilitator, you should write.  This will slow things down (limited by how fast you can write) and give you more control of where the conversation goes as well as the quality of information being produced.
+---
+The opposite of this pattern is [participants_write].
+
+This pattern allows you to ask all the stupid questions that end up being really important.  This is great if it is your job to make sure that there are no hidden assumptions.
+
+h2. Variations
+
+* taking notes on a big visible chart
+* taking notes on index cards
+
+h2. Don't Forget
+
+* If you have people calling out what you will write, this will favor extraverts.  Make sure you pay attention to the introverts!
+* You can always have someone else capture what's going on
+* It's hard to facilitate and write as well, make sure you take the time to do both jobs well
+
+
+h2. Credit
+

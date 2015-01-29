@@ -1,0 +1,20 @@
+---
+title: Invite Others To Talk
+category: discussing
+problem: |
+  Conversations are often dominated by the few most outgoing people in a group.  It is your job as a facilitator to make sure that everyone in a group feels heard.
+
+answer: |
+  Invite others to talk.
+---
+* How do you feel about that?
+* How is X going?  
+
+But "how" questions can be difficult, sometimes "what" questions can be easier:
+
+* What was one thing that really stood out for you from last week?
+* What did you notice about the exercise?
+
+h2. Don't Forget
+
+A direct invitation to talk can feel quite terrifying for an introvert.  Be sensitive to this and look for inclusive ways to include introverts in the discussion as well.

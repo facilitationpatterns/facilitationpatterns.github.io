@@ -1,0 +1,21 @@
+---
+title: Decide How To Decide
+category: ground rules
+story: |
+  
+problem: |
+  Groups often get stuck at their first disagreement, if they have not yet decided how to make decisions, or worse yet, they have disparate ideas about how decisions are made.
+
+answer: |
+  Decide how to decide! There are no right answers. Decide by consensus, voting, fiat, or experimentation. Make sure you write down your decision strategy so that the group remembers it.
+---
+This works best when the facilitator has a couple resonable suggestions in her back pocket. Unanimous consensus is always an acceptable method of making decisions, so use it to decide how to decide (see [roman_voting]). 
+
+Some reasonable suggestions:
+
+* [roman_voting]
+* Team lead breaks ties - This is simple, but requires that the team lead actually does step in to break ties.
+* Try for consensus, then [roman_voting], then fiat - It's interesting to make the goal of consensus decisions explicit.
+* Experimentation - If you can't decide, try both ideas out, then come together and choose one.
+
+Then write it down, perhaps on a [big_visible_chart]

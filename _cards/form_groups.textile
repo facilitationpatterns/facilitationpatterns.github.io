@@ -1,0 +1,27 @@
+---
+title: Form Groups
+category: discussing
+story: |
+  
+problem: |
+  In a large group, there can be too many opinions or too much to say.  Large groups also tend to favor extroverts over introverts.
+
+answer: |
+  Break the large group into smaller groups where each group is given a task to complete by itself. These smaller groups will work much faster and be more effective. Usually you'll combine the output of each group's separate work later.
+credit:   
+---
+Usually you want the groups to report back to the group as a whole so that everyone gets the benefit of their work.  This might be with a short summary that each group gives at the end, or each group might produce [physical_models] that the other groups can all inspect afterward.
+
+h3. Variations
+
+h4. 1-2-4-all
+
+This [Liberating Structure] suggests that the group sizes are 1, then 2, then 4, then all. The timings are often very short, like 30 sec, 2 min, 4 min, 5 min.
+
+h4. Set-Based Design
+
+Each group separately does the same task
+
+h4. Divide + Conquer
+
+Each group does a different task and the work is split up.

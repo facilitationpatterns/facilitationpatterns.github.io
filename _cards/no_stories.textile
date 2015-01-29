@@ -1,0 +1,23 @@
+---
+title: No Stories
+category: ground rules
+story: |
+  Jerry - "I know this because once, when I first got offered..."
+  Linda - "No stories!"
+
+problem: |
+  Meetings are slowed down when participants tell stories _about_ their points instead of just relating their points directly.
+
+answer: |
+  Add "No Stories" to your [ground_rules].
+---
+
+h2. Variations
+
+* Thoughtworks uses cups...
+
+h2. Credit
+
+"No stories" - comes from Landmark Forum via Andrew Sutton
+"Discussion cups" comes from ThoughtWorks via Jeff Patton
+

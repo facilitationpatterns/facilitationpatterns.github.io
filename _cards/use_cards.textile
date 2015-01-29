@@ -1,0 +1,12 @@
+---
+title: Use Cards
+category: discussing
+story: |
+  
+problem: |
+  Ideas are hard to talk to because you can't see or touch them.  As a result, conversations often lose focus or become personal instead of centering around the ideas.  
+
+answer: |
+  Capture the important ideas on index cards or stickies.  One idea per card.  These ideas can then be talked to, prioritized, sorted, tabled, etc.
+---
+Using cards is one way to [physical_models].

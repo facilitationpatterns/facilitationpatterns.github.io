@@ -1,0 +1,29 @@
+---
+title: Talking Stick
+category: discussing
+story: |
+  
+
+problem: |
+  A group is talking over each other, and the group is small or time is not an issue.
+
+answer: |
+  Introduce a talking stick.  Only the person holding the talking stick is allowed to say anything.talk.
+
+---
+This slows down conversation, a LOT.  In a small group that's fine.  
+
+In a group where every person has to say one thing, in order (as in a "standup":http://www.c2.com/cgi/wiki?StandUpMeeting, it's also a natural fit.
+
+I've seen it used in a [fishbowl] quite spectacularly.
+
+h2. Variations
+
+Any physical token will do.  Notable tokens I've seen are :
+
+* nerf balls
+* stuffed animals
+* exercise balls
+* microphone
+* an actual native american talking stick
+
