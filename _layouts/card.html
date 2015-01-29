@@ -1,0 +1,31 @@
+---
+---
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body class="{{ page.css }}">
+  {% include header.html %}
+
+  <div class="container">
+    <h1>{{ page.title }}</h1>
+
+    {% if page.story %}
+    <div class="story">{{ page.story }}</div>
+    {% endif %}
+
+    {% if page.problem %}
+    <div class="problem">{{ page.problem }}</div>
+    {% endif %}
+
+    {% if page.answer %}
+    <div class="ergo">therefore</div>
+
+    <div class="answer">{{ page.answer }}</div>
+    {% endif %}
+
+    {{ content }}
+  </div> 
+
+  {% include footer.html %}
+</body>
+</html>

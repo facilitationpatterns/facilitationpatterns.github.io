@@ -1,0 +1,19 @@
+---
+title: Roman Voting
+category: choosing
+story: |
+  I know there's still more to be said about agenda item, but I'd like to propose we move on for now.  Let's see some thumbs...  Okay, looks like everyone's okay with moving on except José.  José, what's on your mind?
+
+problem: |
+  In order for a group to make decisions quickly and effectively, you need a way to quickly check for consensus.
+
+answer: |
+  Ask the group to vote with their thumbs :
+
+  - *Thumbs Up* - I support the proposal, in fact it's my first choice
+  - *Thumbs Sideways* - It's not my first choice, but I *will* support this proposal if the group decides to go with it.  This is different than I abstain!
+  - *Thumbs Down* - I'm vetoing the proposal, and I'd like to be heard immediately after the vote to explain why.
+
+details: |
+  At any point, anyone is allowed to make a proposal and ask for a vote.  Once a proposal has been offered, everyone votes with their thumbs (as above).
+---

@@ -1,0 +1,48 @@
+title: Facilitation Patterns
+email: jeremy.lightsmith@gmail.com
+
+# paginate: 8
+# paginate_path: "/blog/page:num"
+
+collections:
+  cards:
+    output: true
+
+card_categories:
+  - cards
+  - choosing
+  - closing
+  - discussing
+  - generating
+  - ground rules
+  - language
+  - opening
+  - organizing
+  - preparation
+  - safety
+  - state of mind
+  - time keeping
+  - understanding
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: blog
+  -
+    scope:
+      path: ""
+      type: "cards"
+    values:
+      layout: card
+
+# Build settings
+markdown: kramdown
+permalink: pretty
