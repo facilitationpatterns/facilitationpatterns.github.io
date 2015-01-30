@@ -1,0 +1,12 @@
+---
+title: We Language
+category: language
+story: |
+  
+problem: |
+  When we use "I" to talk about our work, it implies a world of non-collaboration where we work side-by-side but not together. Worse, when someone feels that part of the work was theirs, it can hurt feelings and break trust.
+  
+answer: |
+  Build team cohesion by using "We" instead of "I".  This is especially effective when talking about positive things like accomplishments.
+---
+This is distinct from [I Language] in that it's not about taking personal responsibility, it's about encouraging people to think of the team first.

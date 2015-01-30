@@ -1,0 +1,13 @@
+---
+title: '"On a scale of..."'
+category: language
+story: |
+  "On a scale of 1 to 5, how happy are you in this project?"
+
+problem: |
+  You want to track progress of a subjective thing like safety, code quality, or happiness.
+
+answer: |
+  Ask for the amount of this thing on a discrete scale.  This allows you to quantify, measure and even graph over time things that we often think of as intangible and hard to pin down.
+---
+This pattern is used in [temperature].  

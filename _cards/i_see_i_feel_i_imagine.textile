@@ -1,0 +1,13 @@
+---
+title: '"I See", "I Feel", "I Imagine"...'
+category: language
+story: |
+  I see you coming late to meetings, and I feel disrespected, because I imagine that you don't value our team
+
+problem: |
+  It is hard to express ideas neutrally when there is a lot of emotion attached.
+
+answer: |
+  Use this template : "I see X, I feel Y, I imagine Z" to put things in the context of your own experience. As in [i_language] when expressed in terms of _me_, my statements are more powerful, more true, and less likely to provoke you.
+---
+...feelings accompany every thought

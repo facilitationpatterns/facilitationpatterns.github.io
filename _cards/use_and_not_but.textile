@@ -1,0 +1,14 @@
+---
+title: Use "and" not "but"
+category: language
+story: |
+  "Your presentation was great, but it could have been a little bit louder"
+  _could be_
+  "Your presentation was great, and it could have been a little bit louder"
+
+problem: |
+  Every time we use "but" the information communicated before the "but" is often lost on the receiver.
+
+answer: |
+  Use "and".
+---

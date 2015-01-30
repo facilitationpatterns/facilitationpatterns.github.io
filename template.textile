@@ -3,14 +3,11 @@ title:
 category: 
 story: |
   
-
 problem: |
   
-
 answer: |
   
 ---
-
 h2. Variations
 
 * 

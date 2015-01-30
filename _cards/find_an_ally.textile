@@ -1,0 +1,14 @@
+---
+title: Find an Ally
+category: preparation
+story: |
+  
+problem: |
+  Standing in front of a new group is a very lonely place to be. Especially with new groups it's important to collect as much background information beforehand and get as much feedback afterward as possible.
+
+answer: |
+  Find an ally in the group.  Or two, or three.  You might start with the person that brought you in.  After that, inquire about who the thought leaders, the connectors, mavens, and salespeople of the group are.  Those will be your most effective allies.
+---
+h2. Credit
+
+I was inspired for this by "The Tipping Point" by Malcolm Gladwell

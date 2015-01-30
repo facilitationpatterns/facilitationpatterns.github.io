@@ -1,0 +1,12 @@
+---
+title: Ask Questions With Answers
+category: language
+story: |
+  
+
+problem: |
+  When you ask leading questions or ask a question without waiting for an answer not only do trust & safety suffer, but you miss an opportunity to [gather_data].
+
+answer: |
+  Only ask questions that you actually want answers for.  Instead of leading questions, ask open ended questions.  Instead of "Did X happen?", ask "What happened?"
+---

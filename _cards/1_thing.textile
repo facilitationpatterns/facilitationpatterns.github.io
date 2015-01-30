@@ -1,0 +1,14 @@
+---
+title: 1 Thing
+category: understanding
+story: |
+  
+problem: |
+  Any system is limited by a single constraint.
+
+answer: |
+  Before making a suggestion or providing feedback, find the one thing that will be most helpful, and then say that, and no more.
+---
+h2. Credit
+
+"Theory of Constraints":http://en.wikipedia.org/wiki/Theory_of_Constraints

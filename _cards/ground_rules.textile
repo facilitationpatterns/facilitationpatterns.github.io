@@ -1,0 +1,41 @@
+---
+title: Ground Rules
+category: opening
+story: |
+  "Before we get started, I'd like to suggest some ground rules."
+  "To get the most value for our time, can we agree to only have [one_conversation] at a time?"
+  "How would everyone feel about keeping all laptops off of the table?"
+  ...
+
+problem: |
+  Certain rules and patterns of activity can be hugely beneficial to group dynamics but they are very hard to set in the heat of the moment.
+
+answer: |
+  Ask the group to agree on [ground_rules] to guide their discussion.
+---
+The most effective authority in a group discussion comes from the group itself.  Each ground rule is an agreement that everyone shares and gives you as a facilitator authority to do your job in guiding the discussion to its goals.
+
+The group will often butt against their rules.  In the heat of the moment, it's hard and often counter productive to make a rule and agree to it.  When you have agreed upon rules beforehand, people are much more welcome to being gently reminded
+
+Often the group will begin self policing on its own.  When they make and agree to their rules, they feel like they have the authority to enforce them.  This makes everything work better and keeps the facilitator from being the "bad guy".
+
+Let group come up with rules.
+
+h2. Variations
+
+*Las Vegas Rule* - what happens in the group stays in the group
+*No cell phones or computers* - one of the best rules ever
+*We are going to try to be on time* - gives you the power to cut off anyone
+*We're not going to worry so much about being on time* - allows you to relax as a time keeper
+* [one_conversation]
+* [no_stories]
+* [use_gestures]
+* ...
+
+h2. Don't Forget
+
+[no_handshakes] when you're deciding on [ground_rules].
+
+h2. Credit
+
+* Chris Simms for "las vegas rule"

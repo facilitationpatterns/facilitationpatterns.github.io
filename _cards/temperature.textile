@@ -1,0 +1,32 @@
+---
+title: Temperature
+category: safety
+story: |
+  On a scale of 1 to 10, with 10 being the most safe, how safe do you feel in this room?
+problem: |
+  Safety is so important, that if it's low, steps should be taken immediately to raise it because a group with low safety won't be able to be effective at anything else.
+answer: |
+  If you suspect safety may be low, take the group's temperature.  You can use [on_a_scale_of] to quantify their temperature.
+---
+Ideas on what types of things might be a good fit for a temperature - safety, level of confidence, happiness on a project, emotions, etc.
+  
+Often you might want especially high or low numbers to talk about why if they are comfortable.  If not, encourage them to talk to you in private.
+
+When employing this pattern in a group, you have a lot of choice over what to do with the data.  Here are some choices.
+
+* _allow people to verbalize it_
+* _average it to get a group temperature_ - then write it on the wall
+* _graph all the temperatures_ - a histogram
+* _kinesthetic graphing_ - like graphing the temperatures on the wall, but have some of the people move the other people so that they are physically grouped.  this gives the group a better understanding of who is where
+* _graph the group temperature over time_
+.  You can allow people to simply state where tehy Some things people do are let people say it, average it to get a group temperature
+
+h2. Variations
+
+* Anonymous Temperature
+
+h2. Don't Forget
+
+
+h2. Credit
+

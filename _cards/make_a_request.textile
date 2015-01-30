@@ -1,0 +1,19 @@
+---
+title: Make a Request
+category: language
+story: |
+  "Help me with this report."
+  _could be_
+  "Will you help me with this report?"
+
+problem: |
+  Demands are violent communication. They tear at the trust we have with each other and imply that we don't trust each other's judgement by taking away choice.
+
+answer: |
+  Make a request. Ask for what you want and be okay with the reply.
+---
+To be a "real" request, yes and no both have to be valid answers. 
+
+h2. Credit
+
+Non-Violent Communication by Marshall Rosenberg (among many others)

@@ -1,0 +1,10 @@
+---
+title: Center Yourself
+category: preparation
+story: |
+  
+problem: |
+  
+answer: |
+  
+---

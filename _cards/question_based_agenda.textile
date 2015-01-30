@@ -1,0 +1,10 @@
+---
+title: Question Based Agenda
+category: opening
+story: |
+  
+problem: |
+  
+answer: |
+  
+---

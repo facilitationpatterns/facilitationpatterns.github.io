@@ -231,22 +231,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "_cards/template.textile",
-			"settings":
-			{
-				"buffer_size": 68,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_cards/6_thinking_hats.textile",
-			"settings":
-			{
-				"buffer_size": 68,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -321,28 +305,69 @@
 	"expanded_folders":
 	[
 		"/Users/jeremy/src/facilitationpatterns.github.io",
-		"/Users/jeremy/src/facilitationpatterns.github.io/_site/css"
+		"/Users/jeremy/src/facilitationpatterns.github.io/_plugins"
 	],
 	"file_history":
 	[
-		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/reverse_mitosis.textile",
-		"/Users/jeremy/src/facilitationpatterns.github.io/README.md",
-		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/roman_voting.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/parking_lot.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/as_is_to_be_process.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/template.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/visible_agenda.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/.git/config",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_layouts/card.html",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_plugins/card_links.rb",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/participants_write.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/physical_models.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_config.yml",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/on_a_scale_of.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/action_items.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/use_gestures.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/use_cards.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/one_conversation.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/no_stories.textile",
 		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/no_handshakes.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/decide_how_to_decide.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_layouts/default.html",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/dont_answer_questions.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/facilitator_writes.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/facilitationpatterns.sublime-project",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/find_an_ally.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/fishbowl.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/no_talking.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/secretary.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/talking_stick.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/take_turns.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/people_hear_what_they_need_to.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/invite_others_to_talk.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/play_a_game.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/ask_powerful_questions.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/index.md",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/get_up.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/Gemfile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/gathering_ritual.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/gather_data.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/direct_group_authority.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/form_groups.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_includes/footer.html",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/raise_my_status.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/put_your_distractions_on_the_shelf.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/roman_voting.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_plugins/wikilinks.rb",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/big_visible_chart.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/be_a_coach.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/css/bootstrap.css",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/return_on_time_invested.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/retrospective.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/README.md",
+		"/Users/jeremy/src/facilitationpatterns.github.io/js/application.js",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/6_thinking_hats.textile",
+		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/reverse_mitosis.textile",
 		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/no_attachments.textile",
 		"/Users/jeremy/src/facilitationpatterns.github.io/css/style.scss",
 		"/Users/jeremy/src/facilitationpatterns.github.io/_includes/header.html",
 		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/kinesthetic_graphing.textile",
-		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/return_on_time_invested.textile",
-		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/ask_powerful_questions.textile",
-		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/parking_lot.textile",
-		"/Users/jeremy/src/facilitationpatterns.github.io/_includes/footer.html",
-		"/Users/jeremy/src/facilitationpatterns.github.io/index.md",
-		"/Users/jeremy/src/facilitationpatterns.github.io/_config.yml",
 		"/Users/jeremy/src/facilitationpatterns.github.io/CNAME",
 		"/Users/jeremy/src/facilitationpatterns.github.io/_cards/roman_voting.md",
-		"/Users/jeremy/src/facilitationpatterns.github.io/_layouts/card.html",
-		"/Users/jeremy/src/facilitationpatterns.github.io/_layouts/default.html",
 		"/Users/jeremy/src/facilitationpatterns.github.io/_site/css/style.css.scss",
 		"/Users/jeremy/src/facilitationpatterns.github.io/_includes/head.html",
 		"/Users/jeremy/src/facilitationpatterns.github.io/_site/css/style.scss",
@@ -411,52 +436,11 @@
 		"/Users/jeremy/src/lighthousemontessori.github.io/board.textile",
 		"/Users/jeremy/src/lighthousemontessori.github.io/complete_the_application.textile",
 		"/Users/jeremy/src/lighthousemontessori.github.io/contact_us.textile",
-		"/Users/jeremy/src/lighthousemontessori.github.io/Gemfile",
-		"/Users/jeremy/src/lighthousemontessori.github.io/_includes/common_sidebar.html",
-		"/Users/jeremy/src/lighthousemontessori.github.io/_posts/2011-06-29-absorbent_mind.textile",
-		"/Users/jeremy/src/lighthousemontessori.github.io/_posts/2011-12-08-montessori_education_is_a_movement.textile",
-		"/Users/jeremy/src/lighthousemontessori.github.io/_site/about_us/index.html",
-		"/Users/jeremy/src/lighthousemontessori.github.io/_site/classroom/index.html",
-		"/Users/jeremy/src/lighthousemontessori.github.io/_site/tuition/index.html",
-		"/Users/jeremy/src/lighthousemontessori.github.io/stylesheets/application.css",
-		"/Users/jeremy/src/lighthousemontessori.github.io/makefile",
-		"/Users/jeremy/src/lighthousemontessori.github.io/_layouts/homepage.html",
-		"/Users/jeremy/src/lighthousemontessori.github.io/_includes/header.html",
-		"/Users/jeremy/src/lighthousemontessori.github.io/javascripts/application.js",
-		"/Users/jeremy/src/lighthousemontessori.github.io/_includes/footer.html",
-		"/Users/jeremy/src/lighthousemontessori.github.io/_posts/2014-11-14-weekly_email.textile",
-		"/Users/jeremy/src/lighthousemontessori.github.io/_posts/2013-04-07-what_do_p_diddy_sergey_brin_and_peter_drucker_have_in_common.textile",
-		"/Users/jeremy/src/lighthousemontessori.github.io/_posts/2014-11-07-weekly_email.textile",
-		"/Users/jeremy/src/lighthousemontessori.github.io/_posts/2014-11-03-weekly_email.textile",
-		"/Users/jeremy/src/lighthousemontessori.github.io/_posts/2014-10-26-weekly_email.textile",
-		"/Users/jeremy/src/lighthousemontessori.github.io/_posts/2014-10-19-weekly_email.textile",
-		"/Users/jeremy/src/lighthousemontessori.github.io/_posts/2011-07-19-out_with_the-old_and_in_with_the_new.textile",
-		"/Users/jeremy/src/lighthousemontessori.github.io/_posts/2011-10-14-opening_on_schedule_with_occupancy_permit_established.textile",
-		"/Users/jeremy/src/lighthousemontessori.github.io/_posts/2011-08-08-new_walls_have_us_feeling_sunny.textile",
-		"/Users/jeremy/src/lighthousemontessori.github.io/_posts/2014-10-20-help_support_the_school.textile",
-		"/Users/jeremy/src/lighthousemontessori.github.io/_includes/sidebars/blog.textile",
-		"/Users/jeremy/src/lighthousemontessori.github.io/_includes/sidebars/get_involved.textile",
-		"/Users/jeremy/src/lighthousemontessori.github.io/_includes/sidebars/about_us.textile",
-		"/Users/jeremy/src/lighthousemontessori.github.io/_posts/2011-06-30-freedom_and_discipline.textile",
-		"/Users/jeremy/src/lighthousemontessori.github.io/_posts/2011-06-29-absorbent-mind.textile",
-		"/Users/jeremy/src/lighthousemontessori.github.io/README.md",
-		"/Users/jeremy/src/lighthousemontessori.github.io/_includes/sidebars/admissions.md",
-		"/Users/jeremy/src/lighthousemontessori.github.io/_includes/sidebars/about_us.md",
-		"/Users/jeremy/src/outpace/oe2/offers_db/test/outpace/offers_db/seeds_test.clj",
-		"/Users/jeremy/src/outpace/oe2/offers_db/data/stay_offers.edn",
-		"/Users/jeremy/src/outpace/oe2/.git/MERGE_MSG",
-		"/Users/jeremy/src/outpace/starwood_stay/data/tools/migrations/migrations.iml",
-		"/Users/jeremy/src/outpace/starwood_stay/driver_service/.idea/misc.xml",
-		"/Users/jeremy/src/outpace/starwood_stay/makefile",
-		"/Users/jeremy/.dockercfg",
-		"/Users/jeremy/.outpace-docker-password",
-		"/Users/jeremy/src/blog/jan_2014/all.log",
-		"/Users/jeremy/src/blog/jan_2014/processed.tsv",
-		"/Users/jeremy/src/blog/public/lighthouse_montessori/wp-admin/css/plugin-install-rtl.css"
+		"/Users/jeremy/src/lighthousemontessori.github.io/Gemfile"
 	],
 	"find":
 	{
-		"height": 25.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -749,65 +733,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "_cards/template.textile",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 68,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								68
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_cards/6_thinking_hats.textile",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 68,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								68,
-								68
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Textile/Textile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -866,6 +793,130 @@
 		"selected_items":
 		[
 			[
+				"visible",
+				"_cards/visible_agenda.textile"
+			],
+			[
+				"parking",
+				"_cards/parking_lot.textile"
+			],
+			[
+				"config",
+				"_config.yml"
+			],
+			[
+				"asis",
+				"_cards/as_is_to_be_process.textile"
+			],
+			[
+				"usege",
+				"_cards/use_gestures.textile"
+			],
+			[
+				"oneconv",
+				"_cards/one_conversation.textile"
+			],
+			[
+				"nostore",
+				"_cards/no_stories.textile"
+			],
+			[
+				"decide",
+				"_cards/decide_how_to_decide.textile"
+			],
+			[
+				"facili",
+				"_cards/facilitator_writes.textile"
+			],
+			[
+				"notalk",
+				"_cards/no_talking.textile"
+			],
+			[
+				"parti",
+				"_cards/participants_write.textile"
+			],
+			[
+				"sec",
+				"_cards/secretary.textile"
+			],
+			[
+				"usecards",
+				"_cards/use_cards.textile"
+			],
+			[
+				"talking",
+				"_cards/talking_stick.textile"
+			],
+			[
+				"phy",
+				"_cards/physical_models.textile"
+			],
+			[
+				"invite",
+				"_cards/invite_others_to_talk.textile"
+			],
+			[
+				"getup",
+				"_cards/get_up.textile"
+			],
+			[
+				"card",
+				"_layouts/card.html"
+			],
+			[
+				"gatherin",
+				"_cards/gathering_ritual.textile"
+			],
+			[
+				"formgroup",
+				"_cards/form_groups.textile"
+			],
+			[
+				"fish",
+				"_cards/fishbowl.textile"
+			],
+			[
+				"dont",
+				"_cards/dont_answer_questions.textile"
+			],
+			[
+				"roman",
+				"_cards/roman_voting.textile"
+			],
+			[
+				"raise",
+				"_cards/raise_my_status.textile"
+			],
+			[
+				"direct",
+				"_cards/direct_group_authority.textile"
+			],
+			[
+				"bigvisibl",
+				"_cards/big_visible_chart.textile"
+			],
+			[
+				"be",
+				"_cards/be_a_coach.textile"
+			],
+			[
+				"returnon",
+				"_cards/return_on_time_invested.textile"
+			],
+			[
+				"retros",
+				"_cards/retrospective.textile"
+			],
+			[
+				"action",
+				"_cards/action_items.textile"
+			],
+			[
+				"take",
+				"_cards/take_turns.textile"
+			],
+			[
 				"6",
 				"_cards/6_thinking_hats.textile"
 			],
@@ -876,10 +927,6 @@
 			[
 				"nohan",
 				"_cards/no_handshakes.textile"
-			],
-			[
-				"roman",
-				"_cards/roman_voting.textile"
 			],
 			[
 				"kin",
@@ -898,20 +945,12 @@
 				"CNAME"
 			],
 			[
-				"config",
-				"_config.yml"
-			],
-			[
 				"defaul",
 				"_layouts/default.html"
 			],
 			[
 				"header",
 				"_includes/header.html"
-			],
-			[
-				"card",
-				"_layouts/card.html"
 			],
 			[
 				"cardswap",
@@ -1264,118 +1303,6 @@
 			[
 				"envf",
 				"Envfile"
-			],
-			[
-				"history",
-				"History.txt"
-			],
-			[
-				"pictureuplotest",
-				"TransparentClassroomTests/Models/PictureUploaderTests.swift"
-			],
-			[
-				"picturetoupltet",
-				"TransparentClassroomTests/Models/PictureToUploadTests.swift"
-			],
-			[
-				"picturegrid",
-				"TransparentClassroom/Controllers/PicturesGridController.swift"
-			],
-			[
-				"qa",
-				"platform/ansible/inventories/qa"
-			],
-			[
-				"artifa",
-				"platform/.derp_build/artifact.makefile"
-			],
-			[
-				"appl",
-				"platform/.derp_build/application.makefile"
-			],
-			[
-				"appli",
-				"platform/.derp_build/application.makefile"
-			],
-			[
-				"envfile",
-				"Envfile"
-			],
-			[
-				"vizte",
-				"test/outpace/offer_engine/viz_test.clj"
-			],
-			[
-				"gitig",
-				"offer_engine_console/.gitignore"
-			],
-			[
-				"post",
-				"app/models/post.rb"
-			],
-			[
-				"hasprofile",
-				"app/models/has_profile_pic.rb"
-			],
-			[
-				"school",
-				"app/models/school.rb"
-			],
-			[
-				"classroom",
-				"app/models/classroom.rb"
-			],
-			[
-				"rake",
-				"Rakefile"
-			],
-			[
-				"new",
-				"public/new.php"
-			],
-			[
-				"2014",
-				"public/2014.php"
-			],
-			[
-				"leftn",
-				"public/_left_nav.php"
-			],
-			[
-				"grid",
-				"bower_components/bootstrap/less/grid.less"
-			],
-			[
-				"_head",
-				"public/_header.php"
-			],
-			[
-				"_header",
-				"public/_header.php"
-			],
-			[
-				"invoiceind",
-				"app/views/invoices/index.html.erb"
-			],
-			[
-				"invoicehtml",
-				"app/views/invoices/show.html.erb"
-			],
-			[
-				"channels",
-				"db/data/channels.json"
-			],
-			[
-				"persisterservice",
-				"universe/persister/persister_service.iml"
-			],
-			[
-				"eventreceiverservice",
-				"universe/event_receiver_service/src/outpace/event_receiver_service/service.clj"
-			],
-			[
-				"childparenew",
-				"app/views/children/parents/new.html.erb"
 			]
 		],
 		"width": 0.0
@@ -1408,7 +1335,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 247.0,
+	"side_bar_width": 205.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

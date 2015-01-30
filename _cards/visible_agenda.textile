@@ -1,22 +1,18 @@
 ---
 title: Visible Agenda
-category: 
+category: opening
 story: |
   
 
 problem: |
-  
+  Meetings tend to wander unless there is an agenda. Even when there is an agenda, unless everyone has it right in front of them, it doesn't fully serve it's purpose.  
 
 answer: |
-  
+  Put the agenda on the wall to allow everyone to take ownership of it and of keeping the meeting on track. By having one agenda on the wall as opposed to many agenda's in people's hands, you make it easy to change and negotiate as well.
+
 ---
-
 h2. Variations
-
-* 
-
-h2. Don't Forget
-
-
-h2. Credit
-
+* Print out the agenda
+* Project it on the wall
+* [question_based_agenda]
+* [use_cards] (or stickies) so that agenda items can be easily rearranged and added to.  For example, on the second day of a workshop, you might let participants decide what material to cover.  It works great.

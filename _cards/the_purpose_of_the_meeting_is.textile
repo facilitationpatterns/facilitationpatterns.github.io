@@ -1,0 +1,21 @@
+---
+title: "The purpose of the meeting is..."
+category: opening
+story: |
+  
+problem: |
+  Most meetings don't have a clear, concise purpose that is known to all participants.
+  
+answer: |
+  Start every meeting with the phrase "The purpose of the meeting is X".  This forces you to "begin with the end in mind":http://philosophersnotes.com/ideas/show/stephen-covey-stephen-covey-begin-with-the-end-in-mind
+
+---
+h2. Variations
+
+* 
+
+h2. Don't Forget
+
+
+h2. Credit
+

@@ -1,0 +1,22 @@
+---
+title: Ice Breaker
+category: opening
+story: |
+  
+problem: |
+  
+answer: |
+  
+---
+Some people disagree with the idea of ice breakers. It seems what they dislike about ice breakers is their use without a purpose.
+
+I have found that it's usually fairly easy to find an ice breaker that fulfills part of the goal of the group's time together, whether it is a mental jump or just more connection for the group.
+
+h2. Variations
+
+* 
+
+h2. Resources
+
+* "Thiagi":http://thiagi.net/archive/www/games.html has an amazing list of 400+ games that often make great ice breakers
+

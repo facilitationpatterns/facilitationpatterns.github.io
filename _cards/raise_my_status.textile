@@ -8,6 +8,5 @@ problem: |
   
 
 answer: |
-  
-credit:   
+
 ---

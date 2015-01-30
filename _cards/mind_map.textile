@@ -1,0 +1,10 @@
+---
+title: Mind Map
+category: Organizing
+story: |
+  
+problem: |
+  
+answer: |
+  
+---

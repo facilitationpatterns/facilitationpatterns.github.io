@@ -1,0 +1,14 @@
+---
+title: Mirror
+category: understanding
+story: |
+  
+problem: |
+  We each have a desperate need to feel heard. So much so, in fact that we will quite often derail an entire conversation or meeting in order for anyone to actually hear one off topic point we are trying to make. Conversely, actually understanding what someone is trying to communicate is often difficult.
+
+answer: |
+  Restate someone's point back to them to allow them to both feel heard and validate your understanding.
+---
+When someone starts repeating something this is a dead give away that they are not feeling heard.
+
+NLP says, "The meaning of the communication is the response you get".  

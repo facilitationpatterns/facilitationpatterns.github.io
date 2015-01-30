@@ -1,12 +1,16 @@
 ---
 title: No Handshakes
-category: 
+category: choosing
 story: |
-  
+  "Where should we go for lunch?"
+  "How about Thai?"
+  [one person nods their head]
+  "Great it's decided, we all want Thai"
 
 problem: |
-  
+  After a question is put forth to a group, even after only a tiny fraction of the group answers the question, that answer can be treated as if it were representational of the group. This is a "handshake" and completely ignores the voices of the people in the group that are slower to talk.
 
 answer: |
+  Don't accept handshakes! If a question is put forth to the group, stop the group from moving on until the question is answered or explicitly dropped.
   
 ---

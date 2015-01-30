@@ -1,0 +1,16 @@
+---
+title: I Trust You
+category: state of mind
+story: |
+  
+problem: |
+  Trust is a choice. One primary characteristic of highly functioning teams is pervasive trust.  Likewise one characteristic of dysfunctional teams is lack of trust.
+
+answer: |
+  Model that choice for your team.  Choose to trust them and you'll be amazed at what happens.  
+---
+h2. Credit
+
+Give people a little more trust and responsibility than they have earned. You'll be amazed. - Advice given to Jack Bolles (by...)
+
+edree starts sessions by saying, "ask me anything"

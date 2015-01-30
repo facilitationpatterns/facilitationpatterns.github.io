@@ -1,0 +1,14 @@
+---
+title: Gather Data
+category: understanding
+story: |
+  
+problem: |
+  Before deciding on a course of future action, a group needs to arrive at a shared understanding of the present situation.
+
+answer: |
+  Gather data to from the group to bring about this shared understanding.
+---
+h2. Credit
+
+"White Hat" from [6 Thinking Hats]

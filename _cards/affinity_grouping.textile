@@ -1,0 +1,19 @@
+---
+title: Affinity Grouping
+category: organizing
+story: |
+  
+problem: |
+  
+answer: |
+  
+---
+h2. Variations
+
+* 
+
+h2. Don't Forget
+
+
+h2. Credit
+

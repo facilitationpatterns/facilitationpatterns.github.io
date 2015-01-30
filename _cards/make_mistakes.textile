@@ -1,0 +1,13 @@
+---
+title: Make Mistakes
+category: safety
+story: |
+  
+problem: |
+  
+answer: |
+  
+---
+h2. Anti-pattern
+
+Pointing out errors / being perfect

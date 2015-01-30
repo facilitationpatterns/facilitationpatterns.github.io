@@ -15,6 +15,8 @@ body {
 
 .answer {
   margin: 20px 0;
+  padding-bottom: 30px;
+  background: url(/img/separator.png) no-repeat bottom center
 }
 
 .ergo {
@@ -25,4 +27,11 @@ body {
 .footer {
   padding-top: 100px;
   text-align: center;
+}
+
+.progress-page {
+  .limited {
+    max-height: 4em;
+    overflow: auto;
+  }
 }

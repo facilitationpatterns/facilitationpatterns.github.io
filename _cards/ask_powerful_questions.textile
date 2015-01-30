@@ -1,7 +1,21 @@
+---
+title: Ask Powerful Questions
+category: language
+story: |
+  
 
+problem: |
+  
 
-
-Here are some powerful questions:
+answer: |
+  
+---
+h2. Some Powerful Questions:
 
 * What are you going to do about that?
 * Help me understand
+
+h2. Variations
+
+* Ask What/How questions - these questions specifically tend to be very powerful, but not as abrasive as why
+* 5 Why's - with permission, asking why 5(ish) times cuts deep into the very root of what's going on

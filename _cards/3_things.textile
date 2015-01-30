@@ -1,0 +1,12 @@
+---
+title: 3 Things
+category: organizing
+story: |
+  
+problem: |
+  People can only hold 3 things in their heads at a time.
+
+answer: |
+  Structure everything in 3's.
+---
+The agenda, your talking points, your asks, etc.

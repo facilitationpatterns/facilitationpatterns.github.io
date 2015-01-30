@@ -1,0 +1,12 @@
+---
+title: People Hear What They Need To
+category: state of mind
+story: |
+  
+problem: |
+  Sometimes you don't get the response you were expecting from someone.
+
+answer: |
+  You can can trust that they heard exactly what they needed to hear.  Furthermore, you can use their reaction as a clue to learn more about who they are and how they work.
+---
+* This is an alternative to [rephrase].

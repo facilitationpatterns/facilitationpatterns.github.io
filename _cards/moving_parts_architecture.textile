@@ -1,6 +1,14 @@
 ---
 title: Moving Parts Architecture
 category: cards
-credit: Michael Feathers
+story: |
+
+problem: |
+
+answer: |
+
 ---
 
+h2. Credit
+
+Michael Feathers

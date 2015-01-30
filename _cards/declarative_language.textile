@@ -1,0 +1,30 @@
+---
+title: Declarative Language
+category: language
+story: |
+  "Mow the lawn."
+  _could be_
+  "The grass needs to be cut."
+
+problem: |
+  Imperative language is confrontational and can be construed as abrasive,  intimidating, or micromanaging, especially in low trust environments.
+
+answer: |
+  Use declarative language to promote an environment of trust and empowerment.
+
+---
+Instead of "have the report on my desk by 5pm", even "I'm still missing that report" is better.  The second answer leaves the door open for collaboration, the first doesn't.
+
+One thing to keep in mind is that a question is imperative.  "Did you do that report?" is the same as saying "Tell me whether you do that report or not?"  This is something to be careful of.  Questions can definitely fall victim to coming across as abrasive, intimidating, and micromanaging.
+
+It comes back to not baiting an argument, just like [i_language], and [i_see_i_feel_i_imagine].
+
+My wife, a montessori teacher of 3-6 year olds uses [declarative_language] all the time.  Instead of "Get off of the table".  She says, "You can stand on the floor." :)
+
+h2. Alternatives
+
+Instead of "Mow the lawn," you have different choices:
+
+* *Be Declarative* - "The grass needs to be cut."
+* *Ask a Question* - "When do you think we should cut the grass next?"
+* [Make a Request] - "Will you mow the lawn?"

@@ -1,4 +1,10 @@
 ---
 title: Dot Voting
 category: choosing
+story: |
+
+problem: |
+
+answer: |
+
 ---

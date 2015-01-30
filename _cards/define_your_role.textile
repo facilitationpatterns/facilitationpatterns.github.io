@@ -1,0 +1,13 @@
+---
+title: Define Your Role
+category: opening
+story: |
+  "...I might stomp on side conversations..."
+  
+problem: |
+  Not knowing why you are present can be distracting and frustrating to a group not acquainted with you.  This can be worse in low safety situations where no one feels comfortable asking.
+
+answer: |
+  Define your role up front, and set people's expectations correctly.
+---
+This is all part of "Opening".  While you're at it, you should also announce / ask what the [purpose_of_the_meeting] and agree on some [ground_rules].

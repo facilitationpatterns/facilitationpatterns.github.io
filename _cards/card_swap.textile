@@ -1,5 +1,15 @@
 ---
 title: Card Swap
 category: choosing
-credit: http://www.c2.com/cgi/wiki?CardSwap
+story: |
+
+problem: |
+
+answer: |
+
 ---
+
+
+h2. Credit
+
+http://www.c2.com/cgi/wiki?CardSwap
