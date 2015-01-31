@@ -1,8 +1,32 @@
 ---
 ---
 body {
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  color: #333;
+}
+
+b, strong {
+  font-size: 1.1em;
+}
+
+h1, h2, h3, h4, a {
   font-family: 'Poiret One', arial;
-  font-size: 18px;
+}
+
+a {
+  font-size: 1.1em;
+}
+
+.card-row {
+  border-top: solid 1px #eee;
+  .limited {
+    padding-top: 2px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    color: #999;
+  }
 }
 
 .story {

@@ -1,6 +1,6 @@
 ---
 title: Mind Map
-category: Organizing
+category: organizing
 story: |
   
 problem: |
